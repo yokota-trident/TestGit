@@ -7,11 +7,8 @@ public class Hello {
 		System.out.println("Hello!!");
 		System.out.println("Hello!!");
 		System.out.println("Hello!!");
-//<<<<<<< HEAD
+		System.out.println("Hello!!");
 		System.out.println("World!! 4‰ñ–Ú");
-//=======
-		System.out.println("Hello!! 4‰ñ–Ú");
-//>>>>>>> branch 'master' of https://github.com/yokota-trident/TestGit.git
 	}
 
 }
